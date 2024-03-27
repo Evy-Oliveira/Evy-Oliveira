@@ -1,5 +1,5 @@
 
-![](https://www.canva.com/design/DAGAvW6NHkw/5UPQNscZqNhGIu7R165tAw/view?utm_content=DAGAvW6NHkw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![](https://github.com/Evy-Oliveira/Evy-Oliveira/blob/main/Banner%20do%20github%20simples%20com%20frase%20%20e%20foto.jpg)
 
 ***
 
