@@ -12,7 +12,9 @@
 ***
 ## Ferramentas e Tecnologias que uso atualmente
  JavaScript, CSS, HTML, Node, Git e GitHub, e Angular.
- 
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=100/>
+          
+
+          
           
           
