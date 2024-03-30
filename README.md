@@ -7,7 +7,7 @@
 **Sobre mim**
 - 🔭 Faço faculdade de Gestão de TI.
 - 🌱 Atualmente estou estudando no bootcamp da Laboratória desenvolvendo projetos front-end.
-- 📫 Entre em comigo pelo meu ![](https://evy-oliveira.github.io/portfolio-profissional/).
+- 📫 Entre em comigo pelo meu [Portfólio](https://evy-oliveira.github.io/portfolio-profissional/).
 
 ***
 ## Ferramentas e Tecnologias que uso atualmente
