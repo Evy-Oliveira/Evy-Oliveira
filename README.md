@@ -25,7 +25,7 @@
 
 [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=30 heigth=30/>](https://github.com/)
 
-[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"width=30 heigth=30/>](https://angular.io/)
+[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width=30 heigth=30/>](https://angular.io/)
 
           
 
